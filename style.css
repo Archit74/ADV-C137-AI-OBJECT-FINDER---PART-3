@@ -1,0 +1,39 @@
+body
+{
+font-family: cursive;
+background-size: cover;
+}
+
+.header
+{
+    width: 100%;
+    top: 0px;
+    height: 70px;
+    margin: 0px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#object_name
+{
+    border-radius: 10px;
+    border: 1px solid white;
+    width: 350px;
+}
+
+.footer
+{
+    text-align: center;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: grey;
+
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+  margin-top:150px;
+}
